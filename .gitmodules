@@ -1,0 +1,3 @@
+[submodule "drone-vision"]
+	path = drone-vision
+	url = https://github.com/tw0trickp0ny/drone_vision
